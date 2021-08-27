@@ -1,0 +1,10 @@
+#random-user{
+    min-height: 200px;
+}
+.fas , .far{
+    cursor: pointer;
+    transition: all .6s;
+}
+/* .fas:hover, .far:hover{
+    color: 
+} */
